@@ -70,10 +70,13 @@ https://virtualinfosecafrica.com/
 
  The hosts and services discovered was sorted into a .txt file using;
  
- ![sreve text](images/sreve_text.jpg)
+ 
 
 
 ## VULNERABILITY SCANNING 
+
+![SERVE](Images/SERVE.png)
+
 
   
  
