@@ -1,17 +1,11 @@
 # REPORT ON PENERATION TESTING
-
-#### Table of Contents 
-
-#### Table of Contents 
-
-#### Executive Summary 
-
-#### Analysis of Overall Security Posture
-
-#### Key Recommendation
-
-#### Testing Methodology 
-#### Summary of Findings
+* [Internal Network Penetration Testing Introduction](#introduction)
+* [Scope](#scope)
+* [Host Discovery](#host-discovery)
+* [Service Discovery And Port Scanning](#service-discovery-and-port-scanning)
+* [Vulnerability Scanning](#vulnerability-scanning)
+* [Web-Based Attack Surfaces](#web-based-attack-surfaces)
+* [Generating Payloads](generating-payloads)
 
 For:VITUAL INFOSEC AFRICA
 
@@ -70,7 +64,14 @@ https://virtualinfosecafrica.com/
 
  The hosts and services discovered was sorted into a .txt file using;
  
- 
+ ## Service Discovery And Port Scanning  
+In an internal network, services on devices connected to this network can be differenciated from each other due to their assigned port numbers.  
+We scan ports to find out the services they are running.  
+(https://github.com/daffum3/internal-network-pentesting/blob/main/Portscanning3.png)
+
+2. Separate the output of the results into their respective protocols  
+(https://github.com/daffum3/internal-network-pentesting/blob/main/protocols_operation.png)
+
 
 
 ## VULNERABILITY SCANNING 
