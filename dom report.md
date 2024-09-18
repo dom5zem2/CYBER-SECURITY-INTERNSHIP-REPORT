@@ -58,16 +58,20 @@ https://virtualinfosecafrica.com/
  
  10.10.10.0/24 and a domain; Virtual InfoSec Africa.
  An nmap scan was performed to identify the hosts thaat were up and the potential vulnerabilities.
+ 
  ![nmap](images\nmap.jpg)
  
  If the hosts appear to be down even when they're up, the following comman can be used to identify them.
+ 
  ![bypass](images\bypass.jpg)
 
  The services discovered was sorted out using the following grep command.
+
  ![grep](images\grep.jpg)
 
  The hosts and services discovered was sorted into a .txt file using;
- ![sreve text](images\sreve text.jpg)
+ 
+ ![sreve text](images\sreve_text.jpg)
 
   
  
