@@ -2,17 +2,16 @@
 
 #### Table of Contents 
 
-#### Table of Contents ................................... 2 
+#### Table of Contents 
 
-#### Executive Summary ................................... 3 
+#### Executive Summary 
 
 #### Analysis of Overall Security Posture
-............................................. 3 
 
-#### Key Recommendation................................................ 4 
+#### Key Recommendation
 
-#### Testing Methodology ..................................................... 4 
-#### Summary of Findings...................5
+#### Testing Methodology 
+#### Summary of Findings
 
 For:VITUAL INFOSEC AFRICA
 
@@ -59,19 +58,19 @@ https://virtualinfosecafrica.com/
  10.10.10.0/24 and a domain; Virtual InfoSec Africa.
  An nmap scan was performed to identify the hosts thaat were up and the potential vulnerabilities.
  
- ![nmap](images\nmap.jpg)
+ ![nmap](images/nmap.jpg)
  
  If the hosts appear to be down even when they're up, the following comman can be used to identify them.
  
- ![bypass](images\bypass.jpg)
+ ![bypass](images/bypass.jpg)
 
  The services discovered was sorted out using the following grep command.
 
- ![grep](images\grep.jpg)
+ ![grep](images/grep.jpg)
 
  The hosts and services discovered was sorted into a .txt file using;
  
- ![sreve text](images\sreve_text.jpg)
+ ![sreve text](images/sreve_text.jpg)
 
   
  
